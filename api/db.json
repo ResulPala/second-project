@@ -1,0 +1,124 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "raceId": 1,
+      "characterName": "Legolas",
+      "image": "images/image.jpg",
+      "desc": "Legolas is a skilled archer and a member of the Elf race in Middle-earth mythology."
+    },
+    {
+      "id": 2,
+      "raceId": 2,
+      "characterName": "Aragorn",
+      "image": "images/image.jpg",
+      "desc": "Aragorn is a brave and noble human character in Middle-earth mythology."
+    },
+    {
+      "id": 3,
+      "raceId": 4,
+      "characterName": "Gandalf",
+      "image": "images/image.jpg",
+      "desc": "Gandalf is a wise and powerful character in Middle-earth mythology."
+    },
+    {
+      "id": 4,
+      "raceId": 4,
+      "characterName": "Saruman",
+      "image": "images/image.jpg",
+      "desc": "Saruman the White is a highly skilled and intelligent Maiar in J.R.R. Tolkien's legendarium. He was the head of the Istari order and initially a wise and respected wizard, but later succumbed to darkness and became an antagonist."
+    },
+    {
+      "id": 5,
+      "raceId": 4,
+      "characterName": "Radagast",
+      "image": "images/image.jpg",
+      "desc": "Radagast the Brown is a nature-loving Maiar in Tolkien's mythology. He is associated with animals and has a deep connection to nature and its creatures."
+    },
+    {
+      "id": 6,
+      "raceId": 1,
+      "characterName": "Galadriel",
+      "image": "images/image.jpg",
+      "desc": "Galadriel is a beautiful and wise elf character in Middle-earth mythology."
+    },
+    {
+      "id": 7,
+      "raceId": 1,
+      "characterName": "Arwen",
+      "image": "images/image.jpg",
+      "desc": "Arwen is a graceful and compassionate elf character in Middle-earth mythology."
+    },
+    {
+      "id": 8,
+      "raceId": 3,
+      "characterName": "Gimli",
+      "image": "images/image.jpg",
+      "desc": "Gimli is a strong and brave dwarf character in Middle-earth mythology."
+    },
+    {
+      "id": 9,
+      "raceId": 3,
+      "characterName": "Thorin Oakenshield",
+      "image": "images/image.jpg",
+      "desc": "Thorin Oakenshield is the leader of the company of dwarves in J.R.R. Tolkien's novel 'The Hobbit'. He is determined to reclaim the Lonely Mountain and its treasure from the dragon Smaug."
+    },
+    {
+      "id": 10,
+      "raceId": 3,
+      "characterName": "Dwalin",
+      "image": "images/image.jpg",
+      "desc": "Dwalin is one of the dwarves who accompany Bilbo Baggins on his quest in 'The Hobbit'. He is a strong and loyal member of Thorin Oakenshield's company."
+    },
+    {
+      "id": 11,
+      "raceId": 3,
+      "characterName": "Balin",
+      "image": "images/image.jpg",
+      "desc": "Balin is an experienced dwarf warrior in J.R.R. Tolkien's legendarium. He is known for his wisdom and is one of the few surviving members of Thorin Oakenshield's company."
+    },
+    {
+      "id": 12,
+      "raceId": 3,
+      "characterName": "Bifur",
+      "image": "images/image.jpg",
+      "desc": "Bifur is a dwarf character who appears in 'The Hobbit'. He is known for having an axe embedded in his head, which causes him to occasionally speak in strange languages."
+    },
+    {
+      "id": 13,
+      "raceId": 1,
+      "characterName": "Lúthien",
+      "image": "images/image.jpg",
+      "desc": "Lúthien is a legendary elf character in Middle-earth mythology."
+    },
+    {
+      "id": 14,
+      "raceId": 5,
+      "characterName": "Frodo",
+      "image": "images/image.jpg",
+      "desc": "Frodo is a courageous and resilient hobbit character in Middle-earth mythology."
+    }
+  ],
+  "races": [
+    {
+      "id": 1,
+      "raceName": "Elves"
+    },
+    {
+      "id": 2,
+      "raceName": "Men"
+    },
+    {
+      "id": 3,
+      "raceName": "Dwarves"
+    },
+    {
+      "id": 4,
+      "raceName": "Maiar"
+    },
+    {
+      "id": 5,
+      "raceName": "Hobbits"
+    }
+  ]
+}
